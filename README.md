@@ -109,6 +109,8 @@ The Filecoin Calibration testnet is a stable testnet that follows Filecoin mainn
   - https://beryx.zondax.ch/ 
     - API Docs: https://docs.zondax.ch/Beryx
     - GraphQL UI: https://docs.zondax.ch/beryx/graphql
+- **Calibration Chain Data**
+  - http://calibration.filinfo.io/
 - **MetaMask** (HowTo):
   - Open MetaMask and add a new network:
     - Name: Filecoin Calibration
