@@ -120,6 +120,7 @@ The Filecoin Calibration testnet is a stable testnet that follows Filecoin mainn
   - Use the [faucet](https://faucet.calibration.fildev.network/) to draw funds to your 0x ir f410 address
   - Wait until the transaction gets processed by the network, and verify that the funds appear in MetaMask.
 - **Docs and Developer Tools**:
+  - [FVM Hackathon Cheatsheet](https://github.com/filecoin-project/community/discussions/585)
   - [Filecoin Hackathon Schedule](https://hackathons.filecoin.io/)
   - [Filecoin Docs on FVM](https://docs.filecoin.io/smart-contracts/fundamentals/the-filecoin-virtual-machine/)
 - **Snapshots**
