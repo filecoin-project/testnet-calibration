@@ -2,7 +2,7 @@
 
 Calibration was reset on Feb 19, 2021.
 
-This page contains meta info for Filecoin develoeprs about the Calibration testnet.
+This page contains meta info for Filecoin developers about the Calibration testnet.
 
 &nbsp;
 
