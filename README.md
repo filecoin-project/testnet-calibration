@@ -13,13 +13,16 @@ This page contains meta info for Filecoin developers about the Calibration testn
 The Filecoin Calibration testnet is a stable testnet that follows Filecoin mainnet closely. It has fewer resets and is intended for longer-term testing efforts from storage providers and developers.
 
 - Like mainnet, Calibration supports `32 GiB`, and `64 GiB` storage sectors.
-- It has a miner auto-accepting new deals from developers (see [Resources](#resources) - Calibration Storage Providers below).
-- At the end of May 2023, the Hyperspace testnet was discontinued and developer testing activity moved to the Calibration testnet. See [Filecoin Community Discussion #631](https://github.com/filecoin-project/community/discussions/631) for the rationale.
+- It has a Storage Provider auto-accepting new deals from developers (see [Resources](#resources) - *Calibration Storage Providers* below).
 
+## Join Quickstart
 
-&nbsp;
+- **Build:** https://lotus.filecoin.io/lotus/manage/switch-networks/
+- **Stats:** https://stats.calibration.fildev.network or see [Resources](#resources) - *Block Explorers* below
+- **Faucet:** https://faucet.calibration.fildev.network
+- **Snapshot:** https://snapshots.calibrationnet.filops.net/minimal/latest
 
-## Quickstart
+## User Quickstart
 
 1. Add the Calibration testnet to your wallet (e.g. MetaMask).
     - Go to https://chainlist.org/chain/314159
@@ -33,6 +36,8 @@ The Filecoin Calibration testnet is a stable testnet that follows Filecoin mainn
 5. Your account is now funded and can be used in Ethereum tools such as Hardhat, Foundry, Remix, etc.
 
 *Looking for a Storage Provider on Calibration?* - See https://github.com/benjaminh83/fvm-calib-deal-miners
+
+&nbsp;
 
 ## Technical details
 
@@ -67,7 +72,7 @@ The Filecoin Calibration testnet is a stable testnet that follows Filecoin mainn
 
 #### **Resources**:
 
-- Slack Channel for Updates: [#fil-net-calibration-discuss](https://filecoinproject.slack.com/archives/C01D42NNLMS)
+- **Slack Channel for Updates:** [#fil-net-calibration-discuss](https://filecoinproject.slack.com/archives/C01D42NNLMS)
 
 - **Network Status**: https://status.filecoin.io/
 - **Calibration Docs**: [https://docs.filecoin.io/networks/calibration/details/](https://docs.filecoin.io/networks/calibration/details/)
@@ -98,7 +103,7 @@ The Filecoin Calibration testnet is a stable testnet that follows Filecoin mainn
     - (for Calibration only, on mainnet this is handled by https://filplus.storage/apply)
   - [Fil+ Data Cap Dashboard for Calibration](https://calibration.filplus.d.interplanetary.one/)
     - [API reference](https://documenter.getpostman.com/view/131998/Tzsim4NU#introhttps://documenter.getpostman.com/view/131998/Tzsim4NU#intro) but use http://api.calibration.filplus.d.interplanetary.one
-- **Calibration Storage Providers(miners):**
+- **Calibration Storage Providers (miners):**
   - See https://github.com/benjaminh83/fvm-calib-deal-miners - auto-accepts storage deals
 - **SP Reputation Systems**
   - https://calibration.filrep.io/ 
