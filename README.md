@@ -98,11 +98,6 @@ The Filecoin Calibration testnet is a stable testnet that follows Filecoin mainn
     - Info page: https://chainstack.com/labs/#filecoin
   - **Ankr RPC:**
     - https://rpc.ankr.com/filecoin_testnet
-- **Calibration Fil+ Data Cap Requests**
-  - Apply for Data Cap: https://faucet.calibration.fildev.network/
-    - (for Calibration only, on mainnet this is handled by https://filplus.storage/apply)
-  - [Fil+ Data Cap Dashboard for Calibration](https://calibration.filplus.d.interplanetary.one/)
-    - [API reference](https://documenter.getpostman.com/view/131998/Tzsim4NU#introhttps://documenter.getpostman.com/view/131998/Tzsim4NU#intro) but use http://api.calibration.filplus.d.interplanetary.one
 - **Calibration Storage Providers (miners):**
   - See https://github.com/benjaminh83/fvm-calib-deal-miners - auto-accepts storage deals
 - **SP Reputation Systems**
@@ -110,6 +105,11 @@ The Filecoin Calibration testnet is a stable testnet that follows Filecoin mainn
      - API example: https://api.calibration.filrep.io/api/v1/miners?region=Europe
 - **Filecoin CID Checker**:
   - [https://calibration.filecoin.tools/](https://calibration.filecoin.tools/) - check your storage deal or piece CID’s storage status
+- **Calibration Fil+ Data Cap Requests**
+  - Apply for Data Cap: https://faucet.calibration.fildev.network/
+    - (for Calibration only, on mainnet this is handled by https://filplus.storage/apply)
+  - [Fil+ Data Cap Dashboard for Calibration](https://calibration.filplus.d.interplanetary.one/)
+    - [API reference](https://documenter.getpostman.com/view/131998/Tzsim4NU#introhttps://documenter.getpostman.com/view/131998/Tzsim4NU#intro) but use http://api.calibration.filplus.d.interplanetary.one
 - **Zondax Filecoin Solidity Libs**
   - https://www.npmjs.com/package/@zondax/filecoin-solidity
   - https://github.com/Zondax/filecoin-solidity
