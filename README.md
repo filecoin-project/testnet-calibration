@@ -4,6 +4,8 @@ Calibration was reset on Feb 19, 2021.
 
 This page contains meta info for Filecoin developers about the Calibration testnet.
 
+Please visit the [Filecoin Docs - Networks - Calibration](https://docs.filecoin.io/networks/calibration) for the most up-to-date info.
+
 ![spacex--p-KCm6xB9I-unsplash](https://github.com/filecoin-project/testnet-calibration/blob/ded02ebe39ab7e9dd76e8afef84d29245e53ea4c/spacex--p-KCm6xB9I-unsplash.jpg)
 <br><sup><sub>photo by [SpaceX on Unsplash]([https://unsplash.com/@davidclode](https://unsplash.com/@spacex))<sup><sub>  
 
