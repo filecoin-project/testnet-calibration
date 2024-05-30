@@ -19,7 +19,7 @@ The Filecoin Calibration testnet is a stable testnet that follows Filecoin mainn
 
 - **Build:** https://lotus.filecoin.io/lotus/manage/switch-networks/
 - **Stats:** https://stats.calibration.fildev.network or see [Resources](#resources) - *Block Explorers* below
-- **Faucet:** https://faucet.calibration.fildev.network
+- **Faucet:** https://faucet.calibnet.chainsafe-fil.io
 - **Snapshot:** https://snapshots.calibrationnet.filops.net/minimal/latest
 
 ## User Quickstart
@@ -28,7 +28,7 @@ The Filecoin Calibration testnet is a stable testnet that follows Filecoin mainn
     - Go to https://chainlist.org/chain/314159
     - Click on "Connect wallet"
 2. Create a new account in MetaMask to use with Filecoin.
-3. Use [https://faucet.calibration.fildev.network/](https://faucet.calibration.fildev.network/) to request funds to your Ethereum address (it will be converted behind the scenes to a Filecoin f410 address)
+3. Use [https://faucet.calibnet.chainsafe-fil.io/](https://faucet.calibnet.chainsafe-fil.io/) to request funds to your Ethereum address (it will be converted behind the scenes to a Filecoin f410 address)
 4. Follow the transaction in one of the recommended Calibration testnet explorers:
     - https://calibration.filfox.info/en 
     - https://beryx.zondax.ch 
@@ -77,7 +77,7 @@ The Filecoin Calibration testnet is a stable testnet that follows Filecoin mainn
 - **Network Status**: https://status.filecoin.io/
 - **Calibration Docs**: [https://docs.filecoin.io/networks/calibration/details/](https://docs.filecoin.io/networks/calibration/details/)
 - **Faucets**: 
-  - [https://faucet.calibration.fildev.network/](https://faucet.calibration.fildev.network/)
+  - [https://faucet.calibnet.chainsafe-fil.io/](https://faucet.calibnet.chainsafe-fil.io/)
     - This faucet currently emits 100 tFIL per request.
   - https://beryx.zondax.ch/faucet
 - **Block Explorers**:
@@ -106,7 +106,7 @@ The Filecoin Calibration testnet is a stable testnet that follows Filecoin mainn
 - **Filecoin CID Checker**:
   - [https://calibration.filecoin.tools/](https://calibration.filecoin.tools/) - check your storage deal or piece CID’s storage status
 - **Calibration Fil+ Data Cap Requests**
-  - Apply for Data Cap: https://faucet.calibration.fildev.network/
+  - Apply for Data Cap: https://faucet.calibnet.chainsafe-fil.io/
     - (for Calibration only, on mainnet this is handled by https://filplus.storage/apply)
   - [Fil+ Data Cap Dashboard for Calibration](https://calibration.filplus.d.interplanetary.one/)
     - [API reference](https://documenter.getpostman.com/view/131998/Tzsim4NU#introhttps://documenter.getpostman.com/view/131998/Tzsim4NU#intro) but use http://api.calibration.filplus.d.interplanetary.one
@@ -128,14 +128,14 @@ The Filecoin Calibration testnet is a stable testnet that follows Filecoin mainn
     - Currency symbol: tFIL (Test FIL).
   - Create a new account in MetaMask to use with Filecoin.
   - (OPTIONAL - Go to any block explorer, and enter the account to see its native Filecoin f410 address.)
-  - Use the [faucet](https://faucet.calibration.fildev.network/) to draw funds to your 0x ir f410 address
+  - Use the [faucet](https://faucet.calibnet.chainsafe-fil.io/) to draw funds to your 0x ir f410 address
   - Wait until the transaction gets processed by the network, and verify that the funds appear in MetaMask.
 - **Docs and Developer Tools**:
   - [FVM Hackathon Cheatsheet](https://github.com/filecoin-project/community/discussions/585)
   - [Filecoin Hackathon Schedule](https://hackathons.filecoin.io/)
   - [Filecoin Docs on FVM](https://docs.filecoin.io/smart-contracts/fundamentals/the-filecoin-virtual-machine/)
 - **Snapshots**
-  - [Lightweight Calibration chain snapshot](https://lotus.filecoin.io/lotus/manage/chain-management/#lightweight-snapshot)
+  - [Lightweight Calibration chain snapshot](https://forest-archive.chainsafe.dev/latest/calibnet/)
 
 <hr>
 
