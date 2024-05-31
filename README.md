@@ -43,7 +43,7 @@ The Filecoin Calibration testnet is a stable testnet that follows Filecoin mainn
 
 ## Technical details
 
-**Maintainer:** [Protocol Labs](https://protocol.ai)
+**Maintainer:** [ChainSafe](https://chainsafe.io)
 
 #### **Genesis**:
 
